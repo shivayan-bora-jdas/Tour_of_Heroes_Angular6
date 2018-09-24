@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3. This is a sample project that deals with the Hero Management system tutorial from the Official Angular Docs.
 
 ## Development server
 
